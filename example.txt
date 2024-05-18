@@ -1,2 +1,2 @@
 first line
-trigger github pipeline
+trigger github pipeline 1
