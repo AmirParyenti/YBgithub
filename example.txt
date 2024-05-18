@@ -1,2 +1,3 @@
 first line
 trigger github pipeline 10
+trigger sonarqube pipeline 1
