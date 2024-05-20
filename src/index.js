@@ -1,4 +1,4 @@
 console.log("he3y");
 
-let pi = 3.14;
+const pi = 3.14;
 pi = 3.14159; // Noncompliant: TypeError: invalid assignment to const 'pi'
